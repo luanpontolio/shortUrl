@@ -7,7 +7,7 @@ Para rodar:
  
  npm install
  
-Rodar usando qualquer server http, examplo:
+Rodar usando qualquer server http, exemplo:
 
   npm install -g http-server
   
